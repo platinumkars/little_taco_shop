@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  min-height: auto;
+  min-height: 100vh;
   max-width: auto;
   margin: 0 auto;
   padding: 1rem;
