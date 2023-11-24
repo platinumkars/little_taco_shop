@@ -22,4 +22,5 @@ caption {
 
 image {
   object-fit: cover;
+  max-width: fit-content;
 }
