@@ -1,19 +1,26 @@
 html {
-    font-size: 22px;
+  font-size: 22px;
 }
 
 body {
-    min-height: auto;
-    max-width: auto;
-    margin: 0 auto;
-    padding: 1rem;
-    border-left: 1px solid #333;
-    border-right: 1px solid #333;
+  min-height: auto;
+  max-width: auto;
+  margin: 0 auto;
+  padding: 1rem;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
 }
 
-th, td, caption {
-    border: 1px solid #333;
-    font-family: 'Courier New', Courier, monospace;
-    border-collapse: separate;
-    padding: 0.5rem;
+th,
+td,
+caption {
+  border: 1px solid #333;
+  font-family: "Courier New", Courier, monospace;
+  border-collapse: separate;
+  padding: 0.5rem;
+}
+
+image {
+  height: auto;
+  width: auto;
 }
