@@ -21,6 +21,6 @@ caption {
 }
 
 image {
-  object-fit: cover;
-  max-width: fit-content;
+  object-fit: scale-down;
+  max-width: 200px;
 }
