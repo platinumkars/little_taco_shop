@@ -23,4 +23,5 @@ caption {
 image {
   height: 20%;
   width: 50%;
+  object-fit: cover;
 }
