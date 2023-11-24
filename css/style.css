@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    min-height: 100vh;
-    max-width: 800px;
+    min-height: auto;
+    max-width: auto;
     margin: 0 auto;
     padding: 1rem;
     border-left: 1px solid #333;
